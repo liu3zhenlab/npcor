@@ -11,8 +11,8 @@ bam=/bulk/liu3zhen/research/projects/wheatBlast2.0/06-B71asm.nanopore.Guppy344/a
 npDir=/homes/liu3zhen/software/nanopolish/nanopolish_0.11.0
 scriptDir=/homes/liu3zhen/scripts2/npcor/utils
 splitseqDir=2o-split
-javaModule=Java/1.8.0_192
-samtoolsModule=SAMtools/1.9-foss-2018b
+javaModule=Java
+samtoolsModule=SAMtools
 ncpu=4
 log=2o-run.log
 
